@@ -1,19 +1,18 @@
 to run py files need to install requirements.txt
 to install .txt  
-commnd......  <      pip install -r requirements.txt      >
+<!-- commnd......        pip install -r requirements.txt       -->
 
 for every py file have to change urls
 example for urls
 
 
- start_urls = ['https://bigbandeast.tripod.com/', 'https://www.similarweb.com/website/bigbandeast.tripod.com/']
+<!-- start_urls = ['https://www.jaycar.com.au/', 'https://www.similarsites.com/site/jaycar.com.au']  -->
  
- to run the py file use command
+ to run the py file use below command
   
- python <filename>
+<!--  python <filename>  -->
  
- 
-  example   ....     python  bigband.py
+<!--   example   ....     <      python  bigband.py      > -->
 
 
 
