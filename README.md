@@ -1,5 +1,3 @@
-for each file need to change url
-
 to run py files need to install requirements.txt
 to install .txt  
 <!-- commnd......        pip install -r requirements.txt       -->
